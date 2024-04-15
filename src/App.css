@@ -1,0 +1,23 @@
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loading-text {
+  font-size: 2em; /* Adjust the font size as needed */
+}
+
+
+.error-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.error-text {
+  font-size: 2em; /* Adjust the font size as needed */
+  color: red; /* Optionally, change the color of the error message */
+}
